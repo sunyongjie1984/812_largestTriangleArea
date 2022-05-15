@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		13E8F5072830736E00873BA7 /* 812_largestTriangleArea */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 812_largestTriangleArea; sourceTree = BUILT_PRODUCTS_DIR; };
 		13E8F50A2830736E00873BA7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13E8F511283073AA00873BA7 /* largestTriangleArea.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = largestTriangleArea.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				13E8F50A2830736E00873BA7 /* main.cpp */,
+				13E8F511283073AA00873BA7 /* largestTriangleArea.h */,
 			);
 			path = 812_largestTriangleArea;
 			sourceTree = "<group>";
